@@ -1,0 +1,347 @@
+body {
+  background: #f9f9f9;
+}
+
+.navCurve {
+  background: white url("../images/banners/homepage.png") no-repeat;
+  height: 396px;
+  position: relative;
+}
+
+.default .navCurve {
+  background: white url("../images/banners/homepage02.png") no-repeat;
+}
+
+.about .navCurve {
+  background: white url("../images/banners/about.png") no-repeat;
+}
+
+.contact .navCurve {
+  background: white url("../images/banners/contact.png") no-repeat;
+}
+
+.marla-group .navCurve {
+  background: white url("../images/banners/marla_group.png") no-repeat;
+}
+
+.products .navCurve {
+  background: white url("../images/banners/products.png") no-repeat;
+}
+
+.our-service .navCurve {
+  background: white url("../images/banners/our_service.png") no-repeat;
+}
+
+.accreditation .navCurve {
+  background: white url("../images/banners/accred.png") no-repeat;
+}
+
+.customer-service .navCurve {
+  background: white url("../images/banners/cust_serv.png") no-repeat;
+}
+
+.materials .navCurve {
+  background: white url("../images/banners/materials.png") no-repeat;
+}
+
+.projects .navCurve {
+  background: white url("../images/banners/projects.png") no-repeat;
+}
+
+.supply-chain-management .navCurve {
+  background: white url("../images/banners/scm.png") no-repeat;
+}
+
+.working-with-us .navCurve {
+  background: white url("../images/banners/working_with_us.png") no-repeat;
+}
+
+.total-scm-strategy .navCurve {
+  background: white url("../images/banners/scm.png") no-repeat;
+}
+
+.overall-scm-strategy .navCurve {
+  background: white url("../images/banners/scm.png") no-repeat;
+}
+
+.supply-sources .navCurve {
+  background: white url("../images/banners/scm.png") no-repeat;
+}
+
+.material-requirements-planning .navCurve {
+  background: white url("../images/banners/materials.png") no-repeat;
+}
+
+.material-substitution .navCurve {
+  background: white url("../images/banners/materials.png") no-repeat;
+}
+
+.material-standardisation .navCurve {
+  background: white url("../images/banners/materials.png") no-repeat;
+}
+
+.overall-execution-philosophy .navCurve {
+  background: white url("../images/banners/materials.png") no-repeat;
+}
+
+.objectives-alignment .navCurve {
+  background: white url("../images/banners/materials.png") no-repeat;
+}
+
+.location .navCurve {
+  background: white url("../images/banners/cust_serv.png") no-repeat;
+}
+
+.manufacturing-with-precision .navCurve {
+  background: white url("../images/banners/cust_serv.png") no-repeat;
+}
+
+.fabricated-assemblies .navCurve {
+  background: white url("../images/banners/cust_serv.png") no-repeat;
+}
+
+.full-supply-material .navCurve {
+  background: white url("../images/banners/cust_serv.png") no-repeat;
+}
+
+.subsea .navCurve {
+  background: white url("../images/banners/cust_serv.png") no-repeat;
+}
+
+.africa .navCurve {
+  background: white url("../images/banners/projects.png") no-repeat;
+}
+
+.asia .navCurve {
+  background: white url("../images/banners/projects.png") no-repeat;
+}
+
+.australasia .navCurve {
+  background: white url("../images/banners/projects.png") no-repeat;
+}
+
+.europe .navCurve {
+  background: white url("../images/banners/projects.png") no-repeat;
+}
+
+.north-america .navCurve {
+  background: white url("../images/banners/projects.png") no-repeat;
+}
+
+.south-america .navCurve {
+  background: white url("../images/banners/projects.png") no-repeat;
+}
+
+.accreditation-lqra .navCurve {
+  background: white url("../images/banners/accred.png") no-repeat;
+}
+
+h1 {
+  font-size: 20px;
+  color: #3e5ba9;
+}
+h2 {
+  font-size: 16px;
+  color: #3e5ba9;
+}
+h3 {
+  font-size: 14px;
+  color: #666;
+}
+p, .list {
+  font-size: 14px;
+}
+
+.main-text {
+  padding: 1em 2em !important;
+}
+
+p.proName {
+  font-size: 12px;
+  text-transform: uppercase;
+}
+
+nav a {
+  font-size: 12px;
+  text-transform: uppercase;
+}
+
+a {
+  color: #366696;
+  line-height: 14px;
+}
+
+ul.contentLi {
+  font-size: 11px;
+  margin-left: 25px;
+}
+
+ul.side-nav a {
+  color: #666666;
+}
+
+.enq.panel {
+  padding: 20px !important;
+}
+
+
+.steadLogo{width:190px;padding:18px;}
+.isoLogo{position:absolute; top: 10px; right: 10px; z-index: 999}
+
+.siteWrap {
+  background: #ffffff;
+  -webkit-box-shadow: 0px 0px 10px 0px rgba(50, 50, 50, 0.71);
+  -moz-box-shadow: 0px 0px 10px 0px rgba(50, 50, 50, 0.71);
+  box-shadow: 0px 0px 10px 0px rgba(50, 50, 50, 0.71);
+  padding: 13px;
+  margin-top: 20px;
+}
+
+.top-bar {
+  background: url("../images/navback.png");
+}
+
+.top-bar-section ul {
+  background: #000000;
+}
+
+.top-bar-section ul li > a {
+  background: none !important;
+}
+
+.top-bar .toggle-topbar.menu-icon {
+  left: 18px;
+}
+
+@media only screen and (min-width: 768px) {
+  .top-bar-section ul {
+    background: none !important;
+  }
+
+  .top-bar-section ul li > a {
+    background: none !important;
+  }
+}
+.top-bar a:hover {
+  color: #666666;
+  background: #ffffff !important;
+}
+
+.default .top-bar a.homeLnk, .about .top-bar a.aboutLnk,
+.contact .top-bar a.contactLnk, .marla-group .top-bar a.MGroupLnk,
+.products .top-bar a.productsLnk, .our-service .top-bar a.servicesLnk,
+.supply-chain-management .top-bar a.servicesLnk, .materials .top-bar a.servicesLnk,
+.customer-service .top-bar a.servicesLnk, .working-with-us .top-bar a.servicesLnk,
+.projects .top-bar a.servicesLnk, .accreditation .top-bar a.servicesLnk,
+.total-scm-strategy .top-bar a.servicesLnk, .overall-scm-strategy .top-bar a.servicesLnk,
+.supply-sources .top-bar a.servicesLnk, .material-requirements-planning .top-bar a.servicesLnk,
+.material-substitution .top-bar a.servicesLnk, .material-standardisation .top-bar a.servicesLnk,
+.overall-execution-philosophy .top-bar a.servicesLnk, .objectives-alignment .top-bar a.servicesLnk,
+.locations .top-bar a.servicesLnk, .manufacturing-with-precision .top-bar a.servicesLnk,
+.fabricated-assemblies .top-bar a.servicesLnk, .full-supply-material .top-bar a.servicesLnk,
+.subsea .top-bar a.servicesLnk {
+  color: #666666;
+  background: #ffffff !important;
+}
+
+.top-bar-section .dropdown li {
+  background: #000000;
+}
+.top-bar-section .dropdown li a {
+  background: #000000;
+}
+.top-bar-section .dropdown li a:hover {
+  background: #f0f0f0 !important;
+}
+
+.top-bar-section .dropdown li.divLine {
+  border-bottom: 1px solid #3e5ba9;
+}
+
+@media only screen and (min-width: 768px) {
+  .top-bar-section .dropdown li {
+    background: #ffffff;
+  }
+  .top-bar-section .dropdown li a {
+    background: #ffffff;
+    padding: 25px 60px 25px 20px;
+  }
+  .top-bar-section .dropdown li a:hover {
+    background: #f0f0f0 !important;
+  }
+
+  .top-bar-section ul.dropdown {
+    padding: 10px;
+    background: #ffffff !important;
+    -webkit-box-shadow: 0px 3px 6px -2px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 0px 3px 6px -2px rgba(0, 0, 0, 0.5);
+    box-shadow: 0px 3px 6px -2px rgba(0, 0, 0, 0.5);
+  }
+}
+.button {
+  background: #3e5ba9 !important;
+  border: 0;
+  font-weight: normal;
+  font-size: 10px;
+  box-shadow: none;
+  transition: none;
+}
+
+.button.tiny {
+  font-size: 10px !important;
+}
+
+.rightBord {
+  border-right: none;
+  padding: 0 1.5em 1.25em !important;
+}
+
+.rightBord:last-child {
+  border-right: none;
+}
+
+@media only screen and (min-width: 768px) {
+  li.rightBord {
+    border-right: 1px solid #ddd;
+/*    border-right: 1px solid #3e5ba9;
+*/  }
+
+  .rightBord {
+    border-right: 1px solid #ddd;
+/*    border-right: 1px solid #3e5ba9;
+*/  }
+}
+.rightMap {
+  padding-left: 20px !important;
+}
+.rightMap p {
+  font-size: 12px !important;
+}
+
+li.info p span {
+  font-weight: bold;
+}
+
+    #footer{
+      position:relative;
+    }
+
+
+      
+    #footer .cyber
+    {
+      display: inline;
+      margin: 10px 0px 10px 20px;
+      float:left;
+      position:absolute;
+      top: -15px;
+      left: -20px;
+    } 
+
+    #footer .cyber img
+    {
+      display: inline;
+      width: 130px;
+      float:left;
+    } 
+
